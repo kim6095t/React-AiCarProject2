@@ -2,6 +2,9 @@
     text-align: center;
 }
 
-.mainImage{
+.mainImageHeight{
     height:100vh;
+}
+.mainImageWidth{
+    width:100vw;
 }
